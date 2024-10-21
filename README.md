@@ -24,10 +24,10 @@ This project explores the adaptations of penguin species to their environments b
     - Scikit-learn
 
 **Screenshot Before Preprocessing**  
-![Data Before Preprocessing](screenshots/image_1)
+![Data Before Preprocessing](screenshots/image_1.png)
 
 **Screenshot After Preprocessing**  
-![Data After Preprocessing](screenshots/image_2)
+![Data After Preprocessing](screenshots/image_2.png)
 
 ## Key Problems Addressed
 1. Which penguin species has the highest body mass, and is there a significant difference in body mass across islands?
@@ -37,7 +37,7 @@ This project explores the adaptations of penguin species to their environments b
 5. How does flipper length differ among species?
 
 **Screenshot of Problem Statement**  
-![Problems Addressing](screenshots/image_3)
+![Problems Addressing](screenshots/image_3.png)
 
 ## Results
 
@@ -47,7 +47,7 @@ The Gentoo penguins generally have a higher body mass compared to the Adelie and
 There are also differences in body mass distribution within the same species across different islands, suggesting potential environmental or ecological factors influencing their body mass.
 
 **Screenshot of Body Mass Distribution**  
-![Body Mass Distribution](screenshots/image_4)
+![Body Mass Distribution](screenshots/image_4.png)
 
 ### Bill Morphology
 The scatter plot of bill length versus bill depth shows distinct clusters for each penguin species, indicating species-specific bill morphologies.
@@ -55,28 +55,28 @@ The Gentoo penguins tend to have longer and deeper bills compared to the Adelie 
 The bill morphology may be adapted to different feeding habits or ecological niches occupied by each species.
 
 **Screenshot of Bill Morphology**  
-![Bill Morphology](screenshots/image_5)
+![Bill Morphology](screenshots/image_5.png)
 
 ### Flipper Length
 The bar plot reveals that the Gentoo penguins have, on average, longer flipper lengths compared to the Adelie and Chinstrap penguins.
 Flipper length may be an adaptation for different swimming and foraging behaviors among the species.
 
 **Screenshot of Flipper Length**  
-![Flipper Length](screenshots/image_6)
+![Flipper Length](screenshots/image_6.png)
 
 ### Body Mass and Sex
 The violin plot suggests that there are differences in body mass distribution between males and females within each penguin species.
 Male penguins tend to have a higher average body mass compared to females, which could be attributed to sexual dimorphism.
 
 **Screenshot of Body Mass and Sex**  
-![Body Mass and Sex](screenshots/image_7)
+![Body Mass and Sex](screenshots/image_7.png)
 
 ### Correlation Analysis
 The heatmap of the correlation matrix shows varying degrees of correlation between the different physical characteristics (bill length, bill depth, flipper length, and body mass) for each penguin species.
 These correlations may provide insights into the morphological adaptations and trade-offs among different traits within each species.
 
 **Screenshot of Correlation Analysis**  
-![Correlation Analysis](screenshots/image_8)
+![Correlation Analysis](screenshots/image_8.png)
 
 ## Machine Learning Algorithms
 - **Target**: Predicting Penguin Species
@@ -86,10 +86,10 @@ These correlations may provide insights into the morphological adaptations and t
     - RandomForestRegressor (Accuracy: 97%)
 
 **Screenshot of SVM Model**  
-![SVM Model](screenshots/image_9)
+![SVM Model](screenshots/image_9.png)
 
 **Screenshot of Random Forest Model**  
-![Random Forest Model](screenshots/image_10)
+![Random Forest Model](screenshots/image_10.png)
 
 ## Limitations
 - Limited feature set
