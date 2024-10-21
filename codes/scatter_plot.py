@@ -1,4 +1,4 @@
-# Create a scatter plot for bill length vs. bill depth, colored by species
+# Creating a scatter plot for bill length vs. bill depth, colored by species
 
 import matplotlib.pyplot as plt
 import pandas as pd
