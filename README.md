@@ -36,8 +36,6 @@ This project explores the adaptations of penguin species to their environments b
 4. Which physical characteristics show the strongest correlation with each other?
 5. How does flipper length differ among species?
 
-**Screenshot of Problem Statement**  
-![Problems Addressing](screenshots/image_3.png)
 
 ## Results
 
@@ -47,7 +45,7 @@ The Gentoo penguins generally have a higher body mass compared to the Adelie and
 There are also differences in body mass distribution within the same species across different islands, suggesting potential environmental or ecological factors influencing their body mass.
 
 **Screenshot of Body Mass Distribution**  
-![Body Mass Distribution](screenshots/image_4.png)
+![Body Mass Distribution](screenshots/image_3.png)
 
 ### Bill Morphology
 The scatter plot of bill length versus bill depth shows distinct clusters for each penguin species, indicating species-specific bill morphologies.
@@ -55,28 +53,28 @@ The Gentoo penguins tend to have longer and deeper bills compared to the Adelie 
 The bill morphology may be adapted to different feeding habits or ecological niches occupied by each species.
 
 **Screenshot of Bill Morphology**  
-![Bill Morphology](screenshots/image_5.png)
+![Bill Morphology](screenshots/image_4.png)
 
 ### Flipper Length
 The bar plot reveals that the Gentoo penguins have, on average, longer flipper lengths compared to the Adelie and Chinstrap penguins.
 Flipper length may be an adaptation for different swimming and foraging behaviors among the species.
 
 **Screenshot of Flipper Length**  
-![Flipper Length](screenshots/image_6.png)
+![Flipper Length](screenshots/image_5.png)
 
 ### Body Mass and Sex
 The violin plot suggests that there are differences in body mass distribution between males and females within each penguin species.
 Male penguins tend to have a higher average body mass compared to females, which could be attributed to sexual dimorphism.
 
 **Screenshot of Body Mass and Sex**  
-![Body Mass and Sex](screenshots/image_7.png)
+![Body Mass and Sex](screenshots/image_6.png)
 
 ### Correlation Analysis
 The heatmap of the correlation matrix shows varying degrees of correlation between the different physical characteristics (bill length, bill depth, flipper length, and body mass) for each penguin species.
 These correlations may provide insights into the morphological adaptations and trade-offs among different traits within each species.
 
 **Screenshot of Correlation Analysis**  
-![Correlation Analysis](screenshots/image_8.png)
+![Correlation Analysis](screenshots/image_7.png)
 
 ## Machine Learning Algorithms
 - **Target**: Predicting Penguin Species
